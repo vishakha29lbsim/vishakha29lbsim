@@ -4,22 +4,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshaj810&label=Profile%20views&color=0e75b6&style=flat" alt="vishakha29lbsim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishakha29lbsim" alt="vanshaj810" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishakha29lbsim" alt="vishakha29lbsim" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **React,vue,Java,python**
+- 💬 Ask me about **React,Javascript,Java**
 
 - 📫 How to reach me **rajain29vishakha@gmail.com**
 
 - 📄 Know about my experiences: <a href=" ">Resume</a> 
  
 
-- ⚡ Fun fact **I like animes**
+- ⚡ Fun fact **I love listening music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
